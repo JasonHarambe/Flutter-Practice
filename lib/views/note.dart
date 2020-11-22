@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:noteapp/inherited_widgets/note_inherited_widget.dart';
 import 'package:noteapp/providers/note_provider.dart';
 
 enum NoteMode { Editing, Adding }
